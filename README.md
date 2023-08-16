@@ -1,2 +1,1 @@
-# Projects
-A compilation of different projects I have worked on during my education and in my free time.
+A Tripwire Alarm project I developed for my second semester exam.

@@ -1,10 +1,10 @@
-Velkommen til Nicolai Schou's Portfolio.
+Velkommen til Nicolai Schous portefølje.
 
-Her kan man se flere af mine projekter.
+Her kan du udforske flere af mine projekter.
 
-Nogle af projekterne er lavet gennem skolen og andre er lavet i min egen fritid.
+Nogle af disse projekter blev udført i skolen, mens andre blev gennemført i min fritid.
 
-Hvis i finder noget i synes er spændende eller andet, så find mig endelig på linkedin: https://www.linkedin.com/in/nicolai-schou-b68513152/
+Hvis du finder noget interessant eller har spørgsmål, er du velkommen til at forbinde med mig på LinkedIn: https://www.linkedin.com/in/nicolai-schou-b68513152/
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 

@@ -1,6 +1,6 @@
 Dette projekt er en tripwire alarm jeg udviklede til mit anden semesters projekt i samarbejde med en airsoft virksomhed i Aarhus.
 
-Den er lavet med en Arduino Uno og udviklet med Arduino IDE.
+Den er lavet ved hjælp af en Arduino Uno og udviklet med Arduino IDE.
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
